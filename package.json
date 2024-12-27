@@ -68,6 +68,9 @@
     "onlyBuiltDependencies": [
       "sqlite3"
     ],
+"dependencies": {
+  "n8n": "latest"
+}
     "overrides": {
       "@types/node": "^18.16.16",
       "chokidar": "^4.0.1",
